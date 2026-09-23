@@ -1624,6 +1624,7 @@ final class RouterStore: ObservableObject {
     "orca": "OrcaRouter",
     "venice": "Venice",
     "nousresearch": "Nous",
+    "aimlapi": "AI/ML API",
     "openrouter": "OpenRouter",
   ]
 

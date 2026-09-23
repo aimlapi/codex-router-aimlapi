@@ -255,6 +255,16 @@ Linux installations support the Codex CLI.
 
 | Picker label | Model ID | Authentication |
 | --- | --- | --- |
+| GPT-6 Sol (AI/ML API) | `aimlapi/gpt-6-sol` | AI/ML API key (`AIMLAPI_API_KEY`) |
+| GPT-6 Luna (AI/ML API) | `aimlapi/gpt-6-luna` | AI/ML API key (`AIMLAPI_API_KEY`) |
+| Claude Opus 5.5 (AI/ML API) | `aimlapi/claude-opus-5.5` | AI/ML API key (`AIMLAPI_API_KEY`) |
+| Claude Sonnet 5 (AI/ML API) | `aimlapi/claude-sonnet-5` | AI/ML API key (`AIMLAPI_API_KEY`) |
+| Gemini 3.8 Flash (AI/ML API) | `aimlapi/gemini-3.8-flash` | AI/ML API key (`AIMLAPI_API_KEY`) |
+| DeepSeek V4.1 Flash (AI/ML API) | `aimlapi/deepseek-v4.1-flash` | AI/ML API key (`AIMLAPI_API_KEY`) |
+| GLM 5.2 (AI/ML API) | `aimlapi/glm-5.2` | AI/ML API key (`AIMLAPI_API_KEY`) |
+| Kimi K3 (AI/ML API) | `aimlapi/kimi-k3` | AI/ML API key (`AIMLAPI_API_KEY`) |
+| Grok 4.7 (AI/ML API) | `aimlapi/grok-4.7` | AI/ML API key (`AIMLAPI_API_KEY`) |
+| Qwen3.7 Max (AI/ML API) | `aimlapi/qwen3.7-max` | AI/ML API key (`AIMLAPI_API_KEY`) |
 | K2.7 Coding Highspeed (OAuth) | `kimi-oauth/kimi-for-coding-highspeed` | Existing Kimi Code CLI OAuth session |
 | K2.7 Coding (OAuth) | `kimi-oauth/kimi-for-coding` | Existing Kimi Code CLI OAuth session |
 | Kimi K3 (OAuth) | `kimi-oauth/k3` | Existing Kimi Code CLI OAuth session |
