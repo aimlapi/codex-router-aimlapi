@@ -19,7 +19,7 @@ export const AIMLAPI_SOURCE = "agent/codex-router";
 // Minted by AI/ML API, not by us. Empty means "not registered yet": an unknown
 // partner id is accepted and silently dropped upstream, so sending a
 // placeholder would look identical to working and count nothing.
-export const AIMLAPI_PARTNER_ID = "";
+export const AIMLAPI_PARTNER_ID = "part_iHUWvDUArvZvhexX3PzGBwPS";
 
 const REFERER = "https://github.com/duolahypercho/codex-router";
 const TITLE = "Codex Router";
