@@ -1105,7 +1105,7 @@ struct ProviderIcon: View {
   private var assetExtension: String {
     // Keyed off the asset, not the provider id, so every route sharing a mark
     // (opencode-go and friends) resolves the same file type.
-    ["github-copilot", "chutes", "google", "opencode-free", "kilo-free", "nano-gpt", "stepfun", "aimlapi"]
+    ["aimlapi", "github-copilot", "chutes", "google", "opencode-free", "kilo-free", "nano-gpt", "stepfun"]
       .contains(assetName ?? "") ? "svg" : "png"
   }
 
