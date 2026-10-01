@@ -9,7 +9,7 @@
       "listed": true,
       "displayName": "DeepSeek V4.1 Flash (AI/ML API)",
       "description": "DeepSeek V4.1 Flash through AI/ML API; fast reasoning with tool calls and image understanding.",
-      "priority": 6,
+      "priority": 8,
       "defaultEffort": "high",
       "reasoningLevels": [
         {

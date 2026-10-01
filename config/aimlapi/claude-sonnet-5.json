@@ -9,7 +9,7 @@
       "listed": true,
       "displayName": "Claude Sonnet 5 (AI/ML API)",
       "description": "Anthropic Claude Sonnet 5 through AI/ML API; balanced coding model with the full effort ladder.",
-      "priority": 4,
+      "priority": 6,
       "defaultEffort": "high",
       "reasoningLevels": [
         {

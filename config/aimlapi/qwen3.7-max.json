@@ -9,7 +9,7 @@
       "listed": true,
       "displayName": "Qwen3.7 Max (AI/ML API)",
       "description": "Alibaba Qwen3.7 Max through AI/ML API; text only. Its thinking budget is large, so medium effort needs an output ceiling above 32k tokens.",
-      "priority": 10,
+      "priority": 12,
       "defaultEffort": "high",
       "reasoningLevels": [
         {

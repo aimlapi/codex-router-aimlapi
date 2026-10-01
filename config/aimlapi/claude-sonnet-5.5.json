@@ -2,14 +2,14 @@
   "version": 1,
   "models": [
     {
-      "slug": "aimlapi/claude-opus-5.5",
-      "gatewayModel": "aimlapi-claude-opus-5-5",
-      "upstreamModel": "anthropic/claude-opus-5.5",
+      "slug": "aimlapi/claude-sonnet-5.5",
+      "gatewayModel": "aimlapi-claude-sonnet-5-5",
+      "upstreamModel": "anthropic/claude-sonnet-5.5",
       "provider": "aimlapi",
       "listed": true,
-      "displayName": "Claude Opus 5.5 (AI/ML API)",
-      "description": "Anthropic Claude Opus 5.5 through AI/ML API's OpenAI-compatible surface; the full effort ladder up to max.",
-      "priority": 4,
+      "displayName": "Claude Sonnet 5.5 (AI/ML API)",
+      "description": "Anthropic Claude Sonnet 5.5 through AI/ML API; the current Sonnet, full effort ladder up to max.",
+      "priority": 5,
       "defaultEffort": "high",
       "reasoningLevels": [
         {
@@ -39,7 +39,7 @@
         "text",
         "image"
       ],
-      "compHash": "aimlapi-claude-opus-5-5-v1"
+      "compHash": "aimlapi-claude-sonnet-5-5-v1"
     }
   ]
 }

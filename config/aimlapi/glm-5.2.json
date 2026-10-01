@@ -9,7 +9,7 @@
       "listed": true,
       "displayName": "GLM 5.2 (AI/ML API)",
       "description": "Zhipu GLM 5.2 through AI/ML API; text only on this route, and the only model here that accepts every effort level.",
-      "priority": 7,
+      "priority": 9,
       "defaultEffort": "high",
       "reasoningLevels": [
         {

@@ -9,7 +9,7 @@
       "listed": true,
       "displayName": "Grok 4.7 (AI/ML API)",
       "description": "xAI Grok 4.7 through AI/ML API; text only on this route, full effort ladder.",
-      "priority": 9,
+      "priority": 11,
       "defaultEffort": "high",
       "reasoningLevels": [
         {

@@ -2,14 +2,14 @@
   "version": 1,
   "models": [
     {
-      "slug": "aimlapi/gpt-6-luna",
-      "gatewayModel": "aimlapi-gpt-6-luna",
-      "upstreamModel": "openai/gpt-6-luna",
+      "slug": "aimlapi/gpt-6.1-sol",
+      "gatewayModel": "aimlapi-gpt-6-1-sol",
+      "upstreamModel": "openai/gpt-6.1-sol",
       "provider": "aimlapi",
       "listed": true,
-      "displayName": "GPT-6 Luna (AI/ML API)",
-      "description": "OpenAI GPT-6 Luna through AI/ML API; the fast, cost-efficient GPT-6 for high-volume work, 1.05M context.",
-      "priority": 3,
+      "displayName": "GPT-6.1 Sol (AI/ML API)",
+      "description": "OpenAI GPT-6.1 Sol through AI/ML API; the current coding and agentic flagship, 1.05M context, text and image input.",
+      "priority": 1,
       "defaultEffort": "high",
       "reasoningLevels": [
         {
@@ -31,7 +31,7 @@
         "text",
         "image"
       ],
-      "compHash": "aimlapi-gpt-6-luna-v1"
+      "compHash": "aimlapi-gpt-6-1-sol-v1"
     }
   ]
 }

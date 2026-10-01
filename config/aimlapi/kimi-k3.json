@@ -9,7 +9,7 @@
       "listed": true,
       "displayName": "Kimi K3 (AI/ML API)",
       "description": "Moonshot Kimi K3 through AI/ML API; 1M context with image input. Accepts low, high and max only.",
-      "priority": 8,
+      "priority": 10,
       "defaultEffort": "high",
       "reasoningLevels": [
         {

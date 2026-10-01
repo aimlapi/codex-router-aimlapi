@@ -9,7 +9,7 @@
       "listed": true,
       "displayName": "GPT-6 Sol (AI/ML API)",
       "description": "OpenAI GPT-6 Sol through AI/ML API; built for complex coding and agentic work, 1.05M context, text and image input.",
-      "priority": 1,
+      "priority": 2,
       "defaultEffort": "high",
       "reasoningLevels": [
         {

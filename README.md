@@ -255,9 +255,11 @@ Linux installations support the Codex CLI.
 
 | Picker label | Model ID | Authentication |
 | --- | --- | --- |
+| GPT-6.1 Sol (AI/ML API) | `aimlapi/gpt-6.1-sol` | AI/ML API key (`AIMLAPI_API_KEY`) |
 | GPT-6 Sol (AI/ML API) | `aimlapi/gpt-6-sol` | AI/ML API key (`AIMLAPI_API_KEY`) |
 | GPT-6 Luna (AI/ML API) | `aimlapi/gpt-6-luna` | AI/ML API key (`AIMLAPI_API_KEY`) |
 | Claude Opus 5.5 (AI/ML API) | `aimlapi/claude-opus-5.5` | AI/ML API key (`AIMLAPI_API_KEY`) |
+| Claude Sonnet 5.5 (AI/ML API) | `aimlapi/claude-sonnet-5.5` | AI/ML API key (`AIMLAPI_API_KEY`) |
 | Claude Sonnet 5 (AI/ML API) | `aimlapi/claude-sonnet-5` | AI/ML API key (`AIMLAPI_API_KEY`) |
 | Gemini 3.8 Flash (AI/ML API) | `aimlapi/gemini-3.8-flash` | AI/ML API key (`AIMLAPI_API_KEY`) |
 | DeepSeek V4.1 Flash (AI/ML API) | `aimlapi/deepseek-v4.1-flash` | AI/ML API key (`AIMLAPI_API_KEY`) |

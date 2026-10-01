@@ -9,7 +9,7 @@
       "listed": true,
       "displayName": "Gemini 3.8 Flash (AI/ML API)",
       "description": "Google Gemini 3.8 Flash through AI/ML API; 1M context, text and image input. Rejects xhigh, accepts max.",
-      "priority": 5,
+      "priority": 7,
       "defaultEffort": "high",
       "reasoningLevels": [
         {
